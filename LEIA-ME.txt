@@ -1,0 +1,24 @@
+TRUTH COMMERCE — ESCRITÓRIO VIRTUAL
+
+ARQUIVOS
+truth-office.tmj — mapa Tiled/WorkAdventure
+truth-office-preview.png — arte + tileset do mapa (não renomear)
+collision.png — tile transparente para colisões
+
+PUBLICAÇÃO (GITHUB PAGES - URL PÚBLICA)
+1. Crie um repositório GitHub (ex.: truth-office).
+2. Envie os três arquivos para a raiz do repositório.
+3. Em Settings > Pages, escolha Deploy from a branch, main, / (root), Save.
+4. Quando estiver publicado, copie o endereço HTTPS que termina em /truth-office.tmj (não é o link do GitHub para visualizar o código).
+5. Em WorkAdventure > seu World > Edit > Choose your map > Custom, cole a URL HTTPS pública do .tmj.
+6. Teste entrando com dois usuários, reuniões, som e compartilhamento de tela.
+
+ALTERNATIVA: Map Starter Kit oficial WorkAdventure para teste local e deploy integrado; veja https://github.com/workadventure/map-starter-kit.
+
+NOTAS
+Os quatro ambientes de reunião possuem áreas Jitsi no arquivo TMJ; o WorkAdventure atual também disponibiliza editor de áreas no próprio mapa. Se as reuniões não abrirem, configure cada área pelo editor de áreas > Meeting room.
+O limite de 5 nas três salas é CAPACIDADE FÍSICA REPRESENTADA (cinco lugares), não um bloqueio automático de participantes; configure limite de usuários no editor de áreas, se estiver disponível no seu plano.
+Ambulatório é sala virtual temática, NÃO atendimento médico real.
+Este projeto não foi testado ao vivo na sua instância WorkAdventure.
+Não são fornecidos controles de acesso: configure permissões da plataforma para diretoria e espaços restritos.
+Arte própria produzida para este mapa.
